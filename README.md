@@ -11,7 +11,7 @@ Insights
 •	Assault and larceny are the two most commit crime types by far, with the next being controlled substance cases.
 •	The majority of offenders are of African American lineage, with the next largest group being classed as white-Hispanic 
 •	The largest age-group of offenders is 24-44 years old, this is due to the large age gaps and where most people are within the mature years. Most common gender of arrestees are male
-•	The 14th precinct in Manhatten has consistently made the highest number of arrests during this period out of 77 precincts in New York City. Staten Island
+•	The 14th precinct in Manhatten has consistently made the highest number of arrests during this period out of 77 precincts in New York City. 
 
 Technologies
 
